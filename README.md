@@ -1,4 +1,4 @@
-                                                                              Task Management System
+###Task Management System
 
 This project is a simple Task Management System that uses MySQL for the database and PHP for server-side logic. The system includes two main tables: `tasks` and `users`.
 
@@ -17,7 +17,7 @@ This project is a simple Task Management System that uses MySQL for the database
     cd task-management-system
 
 # Step 2: Configure Database Connection
-    Open the <strong> "partials\_dbconnect.php" </strong> file in your preferred text editor and update the database connection details:
+    Open the "partials\_dbconnect.php" file in your preferred text editor and update the database connection details:
     
     $servername = "localhost"; // Replace with your server name
     $username = "root"; // Replace with your MySQL username
